@@ -1,3 +1,6 @@
 # Delta-Demo
 
-This is github practice
+This is a demo for git and github class
+
+# Teacher
+Abhishek Antony
